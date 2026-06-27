@@ -21,7 +21,7 @@ app.get('/crimes', (req, res) => {
             valorDeBusca = true;
         } else if (valorDeBusca === "false") {
             valorDeBusca = false;
-            
+
         } 
        
         else if (chave === 'id') {
@@ -63,7 +63,7 @@ app.get('/crimes', (req, res) => {
     return res.json(crimesFiltrados);
 });
 
-let PORT = 3000;
+let PORT = process.env.PORT || 3000;
 app.listen(PORT, () => {
     console.log(`Servidor rodando na porta ${PORT}`);
     console.log(`Acesse: http://localhost:${PORT}/crimes`);
