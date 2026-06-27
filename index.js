@@ -63,7 +63,7 @@ app.get('/crimes', (req, res) => {
     return res.json(crimesFiltrados);
 });
 
-// Rota principal (Boas-vindas)
+
 app.get('/', (req, res) => {
     res.send("🕷️ Bem-vindo à API do Sistema de Alerta de Juiz de Fora! Adicione '/crimes' ao final do URL para ver as ocorrências.");
 });
