@@ -278,5 +278,2525 @@
     },
     "status": "Polícia e Aranha em cooperação",
     "data_ocorrencia": "2026-06-27T04:20:00Z"
+  },
+  {
+    "id": 21,
+    "incidente": "Pichação na parede do supermercado",
+    "crimeComum": true,
+    "vilao_envolvido": null,
+    "severidade": "Baixa",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Teixeiras",
+      "ponto_referencia": "Em frente ao Bretas"
+    },
+    "status": "Boletim de ocorrência registrado",
+    "data_ocorrencia": "2026-06-27T15:00:00Z"
+  },
+  {
+    "id": 22,
+    "incidente": "Caos no zoológico com controle mental de animais",
+    "crimeComum": false,
+    "vilao_envolvido": "Kraven, o Caçador",
+    "severidade": "Alta",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Santa Terezinha",
+      "ponto_referencia": "Próximo à mata da região"
+    },
+    "status": "Aranha a caminho",
+    "data_ocorrencia": "2026-06-27T16:15:00Z"
+  },
+  {
+    "id": 23,
+    "incidente": "Roubo de veículo de luxo em estacionamento rotativo",
+    "crimeComum": true,
+    "vilao_envolvido": null,
+    "severidade": "Média",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Centro",
+      "ponto_referencia": "Avenida Presidente Itamar Franco"
+    },
+    "status": "Polícia em perseguição",
+    "data_ocorrencia": "2026-06-27T17:30:00Z"
+  },
+  {
+    "id": 24,
+    "incidente": "Explosão em caixa eletrônico com uso de artefatos avançados",
+    "crimeComum": false,
+    "vilao_envolvido": "Duende Macabro",
+    "severidade": "Alta",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "São Pedro",
+      "ponto_referencia": "Posto de gasolina na via principal"
+    },
+    "status": "Investigação em andamento",
+    "data_ocorrencia": "2026-06-27T03:45:00Z"
+  },
+  {
+    "id": 25,
+    "incidente": "Ataque cibernético na infraestrutura do hospital gerando apagão local",
+    "crimeComum": false,
+    "vilao_envolvido": "Consertador",
+    "severidade": "Crítica",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Santa Catarina",
+      "ponto_referencia": "Próximo ao Hospital Universitário (HU)"
+    },
+    "status": "Aranha na central de servidores",
+    "data_ocorrencia": "2026-06-27T14:50:00Z"
+  },
+  {
+    "id": 26,
+    "incidente": "Vandalismo no ponto de ônibus da avenida",
+    "crimeComum": true,
+    "vilao_envolvido": null,
+    "severidade": "Baixa",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "São Mateus",
+      "ponto_referencia": "Ponto da Avenida Itamar Franco"
+    },
+    "status": "Resolvido",
+    "data_ocorrencia": "2026-06-27T18:00:00Z"
+  },
+  {
+    "id": 27,
+    "incidente": "Roubo a joalheria com utilização de ácido corrosivo",
+    "crimeComum": false,
+    "vilao_envolvido": "Escorpião",
+    "severidade": "Alta",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Centro",
+      "ponto_referencia": "Galeria Pio X"
+    },
+    "status": "Aranha a caminho",
+    "data_ocorrencia": "2026-06-27T19:15:00Z"
+  },
+  {
+    "id": 28,
+    "incidente": "Tráfico de armas em galpão abandonado",
+    "crimeComum": false,
+    "vilao_envolvido": "Lápide",
+    "severidade": "Alta",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Vila Ideal",
+      "ponto_referencia": "Próximo à linha do trem"
+    },
+    "status": "Investigação em andamento",
+    "data_ocorrencia": "2026-06-27T20:30:00Z"
+  },
+  {
+    "id": 29,
+    "incidente": "Arrombamento de loja de eletrônicos na madrugada",
+    "crimeComum": true,
+    "vilao_envolvido": null,
+    "severidade": "Média",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Alto dos Passos",
+      "ponto_referencia": "Rua Moraes e Castro"
+    },
+    "status": "Polícia no local",
+    "data_ocorrencia": "2026-06-27T02:45:00Z"
+  },
+  {
+    "id": 30,
+    "incidente": "Invasão de sistema bancário espalhando vírus maligno",
+    "crimeComum": false,
+    "vilao_envolvido": "Carnificina",
+    "severidade": "Crítica",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Granbery",
+      "ponto_referencia": "Sede administrativa na Rua Batista de Oliveira"
+    },
+    "status": "Alerta vermelho",
+    "data_ocorrencia": "2026-06-27T10:20:00Z"
+  },
+  {
+    "id": 31,
+    "incidente": "Furto de cabos telefônicos",
+    "crimeComum": true,
+    "vilao_envolvido": null,
+    "severidade": "Baixa",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Cascatinha",
+      "ponto_referencia": "Próximo ao clube Asbemge"
+    },
+    "status": "Boletim de ocorrência registrado",
+    "data_ocorrencia": "2026-06-27T05:30:00Z"
+  },
+  {
+    "id": 32,
+    "incidente": "Ataque bioquímico com gás do medo no cinema",
+    "crimeComum": false,
+    "vilao_envolvido": "Duende Verde",
+    "severidade": "Crítica",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Estrela Sul",
+      "ponto_referencia": "Shopping da região"
+    },
+    "status": "Área isolada",
+    "data_ocorrencia": "2026-06-27T16:45:00Z"
+  },
+  {
+    "id": 33,
+    "incidente": "Assalto a ônibus de transporte coletivo",
+    "crimeComum": true,
+    "vilao_envolvido": null,
+    "severidade": "Média",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Nova Era",
+      "ponto_referencia": "Avenida JK"
+    },
+    "status": "Polícia em perseguição",
+    "data_ocorrencia": "2026-06-27T14:10:00Z"
+  },
+  {
+    "id": 34,
+    "incidente": "Sequestro de prefeito utilizando ilusões ópticas",
+    "crimeComum": false,
+    "vilao_envolvido": "Mysterio",
+    "severidade": "Crítica",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Centro",
+      "ponto_referencia": "Prefeitura de Juiz de Fora (Avenida Brasil)"
+    },
+    "status": "Aranha no local",
+    "data_ocorrencia": "2026-06-27T09:00:00Z"
+  },
+  {
+    "id": 35,
+    "incidente": "Desmanche de carros roubados descoberto",
+    "crimeComum": true,
+    "vilao_envolvido": null,
+    "severidade": "Média",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Ladeira",
+      "ponto_referencia": "Galpão na subida do bairro"
+    },
+    "status": "Suspeitos detidos",
+    "data_ocorrencia": "2026-06-26T23:50:00Z"
+  },
+  {
+    "id": 36,
+    "incidente": "Ataque noturno com drenagem de sangue em clínica",
+    "crimeComum": false,
+    "vilao_envolvido": "Morbius",
+    "severidade": "Alta",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Santa Helena",
+      "ponto_referencia": "Laboratório de análises clínicas"
+    },
+    "status": "Aranha investigando o rastro",
+    "data_ocorrencia": "2026-06-27T03:15:00Z"
+  },
+  {
+    "id": 37,
+    "incidente": "Furto de bicicleta no parque da cidade",
+    "crimeComum": true,
+    "vilao_envolvido": null,
+    "severidade": "Baixa",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Aeroporto",
+      "ponto_referencia": "Parque da Lajinha"
+    },
+    "status": "Resolvido",
+    "data_ocorrencia": "2026-06-27T08:30:00Z"
+  },
+  {
+    "id": 38,
+    "incidente": "Substituição de figuras públicas por sósias idênticos",
+    "crimeComum": false,
+    "vilao_envolvido": "Camaleão",
+    "severidade": "Alta",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Poço Rico",
+      "ponto_referencia": "Sede de emissora de TV local"
+    },
+    "status": "Investigação da SHIELD",
+    "data_ocorrencia": "2026-06-27T11:45:00Z"
+  },
+  {
+    "id": 39,
+    "incidente": "Lavagem de dinheiro corrompendo autoridades locais com controle mental",
+    "crimeComum": false,
+    "vilao_envolvido": "Senhor Negativo",
+    "severidade": "Alta",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Bom Pastor",
+      "ponto_referencia": "Clube de elite do bairro"
+    },
+    "status": "Aranha infiltrado",
+    "data_ocorrencia": "2026-06-27T21:00:00Z"
+  },
+  {
+    "id": 40,
+    "incidente": "Briga de trânsito após colisão no cruzamento",
+    "crimeComum": true,
+    "vilao_envolvido": null,
+    "severidade": "Baixa",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Manoel Honório",
+      "ponto_referencia": "Rotatória da Avenida Rio Branco"
+    },
+    "status": "Polícia no local",
+    "data_ocorrencia": "2026-06-27T17:15:00Z"
+  },
+  {
+    "id": 41,
+    "incidente": "Assalto a joalheria utilizando coelhos robóticos explosivos",
+    "crimeComum": false,
+    "vilao_envolvido": "Coelho Branco",
+    "severidade": "Média",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Centro",
+      "ponto_referencia": "Galeria Ali Halfeld"
+    },
+    "status": "Polícia confusa, Aranha a caminho",
+    "data_ocorrencia": "2026-06-27T10:00:00Z"
+  },
+  {
+    "id": 42,
+    "incidente": "Destruição de carros com roda metálica gigante giratória",
+    "crimeComum": false,
+    "vilao_envolvido": "Grande Roda",
+    "severidade": "Alta",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Manoel Honório",
+      "ponto_referencia": "Avenida Rio Branco"
+    },
+    "status": "Aranha tentando parar a roda",
+    "data_ocorrencia": "2026-06-27T12:30:00Z"
+  },
+  {
+    "id": 43,
+    "incidente": "Ataque de abelhas mutantes em feira livre",
+    "crimeComum": false,
+    "vilao_envolvido": "Enxame",
+    "severidade": "Média",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "São Mateus",
+      "ponto_referencia": "Rua São Mateus, dia de feira"
+    },
+    "status": "Bombeiros acionados, Aranha buscando inseticida",
+    "data_ocorrencia": "2026-06-27T08:15:00Z"
+  },
+  {
+    "id": 44,
+    "incidente": "Invasão em loja de doces por homem vestido de morsa",
+    "crimeComum": false,
+    "vilao_envolvido": "Morsa",
+    "severidade": "Baixa",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Alto dos Passos",
+      "ponto_referencia": "Próximo à padaria principal"
+    },
+    "status": "Suspeito preso após tropeçar",
+    "data_ocorrencia": "2026-06-27T15:20:00Z"
+  },
+  {
+    "id": 45,
+    "incidente": "Fuga com malotes de dinheiro saltando sobre prédios",
+    "crimeComum": false,
+    "vilao_envolvido": "Canguru",
+    "severidade": "Média",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "São Pedro",
+      "ponto_referencia": "Av. Presidente Costa e Silva"
+    },
+    "status": "Aranha em perseguição aérea",
+    "data_ocorrencia": "2026-06-27T14:40:00Z"
+  },
+  {
+    "id": 46,
+    "incidente": "Hipnose coletiva em casa de shows para furtar carteiras",
+    "crimeComum": false,
+    "vilao_envolvido": "Hipno-Hustler",
+    "severidade": "Baixa",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Aeroporto",
+      "ponto_referencia": "Casa de shows perto do Estádio Municipal"
+    },
+    "status": "Público despertando, vilão imobilizado",
+    "data_ocorrencia": "2026-06-26T23:30:00Z"
+  },
+  {
+    "id": 47,
+    "incidente": "Pânico em parque causado por homem em fantasia de macaco",
+    "crimeComum": false,
+    "vilao_envolvido": "Gibão",
+    "severidade": "Baixa",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Santa Terezinha",
+      "ponto_referencia": "Praça pública principal"
+    },
+    "status": "Conversação pacífica com o Aranha",
+    "data_ocorrencia": "2026-06-27T11:10:00Z"
+  },
+  {
+    "id": 48,
+    "incidente": "Arremesso de bumerangues explosivos em carro forte",
+    "crimeComum": false,
+    "vilao_envolvido": "Bumerangue",
+    "severidade": "Alta",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Benfica",
+      "ponto_referencia": "Praça principal do bairro"
+    },
+    "status": "Confronto direto",
+    "data_ocorrencia": "2026-06-27T09:45:00Z"
+  },
+  {
+    "id": 49,
+    "incidente": "Fuga em alta velocidade com carro turbinado nanotecnológico",
+    "crimeComum": false,
+    "vilao_envolvido": "Overdrive",
+    "severidade": "Média",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Salvaterra",
+      "ponto_referencia": "Acesso à BR-040"
+    },
+    "status": "Polícia rodoviária e Aranha em perseguição",
+    "data_ocorrencia": "2026-06-27T16:00:00Z"
+  },
+  {
+    "id": 50,
+    "incidente": "Extorsão em comércio usando força bruta",
+    "crimeComum": false,
+    "vilao_envolvido": "Búfalo (Os Executores)",
+    "severidade": "Média",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Teixeiras",
+      "ponto_referencia": "Mercado local"
+    },
+    "status": "Aranha chegou ao local",
+    "data_ocorrencia": "2026-06-27T13:25:00Z"
+  },
+  {
+    "id": 51,
+    "incidente": "Roubo de isótopos e produtos químicos experimentais",
+    "crimeComum": false,
+    "vilao_envolvido": "Duende Verde",
+    "severidade": "Média",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "São Judas Tadeu",
+      "ponto_referencia": "Próximo ao comércio local de São Judas Tadeu"
+    },
+    "status": "Área isolada pela polícia",
+    "data_ocorrencia": "2026-06-24T07:04:00Z"
+  },
+  {
+    "id": 52,
+    "incidente": "Controle mental de cidadãos para gerar tumulto",
+    "crimeComum": false,
+    "vilao_envolvido": "Gata Negra",
+    "severidade": "Crítica",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "São Mateus",
+      "ponto_referencia": "Próximo ao comércio local de São Mateus"
+    },
+    "status": "Aranha a caminho",
+    "data_ocorrencia": "2026-06-24T20:32:00Z"
+  },
+  {
+    "id": 53,
+    "incidente": "Ataque bioquímico com gás no sistema de ventilação",
+    "crimeComum": false,
+    "vilao_envolvido": "Mysterio",
+    "severidade": "Alta",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Aeroporto",
+      "ponto_referencia": "Próximo ao comércio local de Aeroporto"
+    },
+    "status": "Sob controle após intervenção",
+    "data_ocorrencia": "2026-06-24T22:29:00Z"
+  },
+  {
+    "id": 54,
+    "incidente": "Furto de veículo estacionado na via pública",
+    "crimeComum": true,
+    "vilao_envolvido": null,
+    "severidade": "Média",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Bom Pastor",
+      "ponto_referencia": "Próximo ao comércio local de Bom Pastor"
+    },
+    "status": "Suspeito detido",
+    "data_ocorrencia": "2026-06-27T17:45:00Z"
+  },
+  {
+    "id": 55,
+    "incidente": "Tentativa de sabotagem na subestação da Cemig",
+    "crimeComum": false,
+    "vilao_envolvido": "Electro",
+    "severidade": "Alta",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Alto dos Passos",
+      "ponto_referencia": "Próximo ao comércio local de Alto dos Passos"
+    },
+    "status": "Área isolada pela polícia",
+    "data_ocorrencia": "2026-06-26T18:38:00Z"
+  },
+  {
+    "id": 56,
+    "incidente": "Extorsão com ameaça de destruição de prédios",
+    "crimeComum": false,
+    "vilao_envolvido": "Chacal",
+    "severidade": "Alta",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Santa Helena",
+      "ponto_referencia": "Próximo ao comércio local de Santa Helena"
+    },
+    "status": "Área isolada pela polícia",
+    "data_ocorrencia": "2026-06-23T01:26:00Z"
+  },
+  {
+    "id": 57,
+    "incidente": "Invasão de laboratório de pesquisas da UFJF",
+    "crimeComum": false,
+    "vilao_envolvido": "Consertador",
+    "severidade": "Média",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Teixeiras",
+      "ponto_referencia": "Próximo ao comércio local de Teixeiras"
+    },
+    "status": "Aranha a caminho",
+    "data_ocorrencia": "2026-06-28T00:28:00Z"
+  },
+  {
+    "id": 58,
+    "incidente": "Extorsão com ameaça de destruição de prédios",
+    "crimeComum": false,
+    "vilao_envolvido": "Electro",
+    "severidade": "Alta",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Alto dos Passos",
+      "ponto_referencia": "Próximo ao comércio local de Alto dos Passos"
+    },
+    "status": "Polícia aguardando o Aranha",
+    "data_ocorrencia": "2026-06-25T02:08:00Z"
+  },
+  {
+    "id": 59,
+    "incidente": "Extorsão com ameaça de destruição de prédios",
+    "crimeComum": false,
+    "vilao_envolvido": "Consertador",
+    "severidade": "Crítica",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Bom Pastor",
+      "ponto_referencia": "Próximo ao comércio local de Bom Pastor"
+    },
+    "status": "Vilão imobilizado em teias",
+    "data_ocorrencia": "2026-06-23T09:48:00Z"
+  },
+  {
+    "id": 60,
+    "incidente": "Furto de estepe",
+    "crimeComum": true,
+    "vilao_envolvido": null,
+    "severidade": "Baixa",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "São Mateus",
+      "ponto_referencia": "Próximo ao comércio local de São Mateus"
+    },
+    "status": "Polícia no local",
+    "data_ocorrencia": "2026-06-24T14:13:00Z"
+  },
+  {
+    "id": 61,
+    "incidente": "Ataque bioquímico com gás no sistema de ventilação",
+    "crimeComum": false,
+    "vilao_envolvido": "Senhor Negativo",
+    "severidade": "Alta",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Ladeira",
+      "ponto_referencia": "Próximo ao comércio local de Ladeira"
+    },
+    "status": "Sob controle após intervenção",
+    "data_ocorrencia": "2026-06-21T17:56:00Z"
+  },
+  {
+    "id": 62,
+    "incidente": "Roubo de isótopos e produtos químicos experimentais",
+    "crimeComum": false,
+    "vilao_envolvido": "Lagarto",
+    "severidade": "Média",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Nova Era",
+      "ponto_referencia": "Próximo ao comércio local de Nova Era"
+    },
+    "status": "Aranha a caminho",
+    "data_ocorrencia": "2026-06-27T07:00:00Z"
+  },
+  {
+    "id": 63,
+    "incidente": "Tentativa de sabotagem na subestação da Cemig",
+    "crimeComum": false,
+    "vilao_envolvido": "Rei do Crime",
+    "severidade": "Crítica",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Santa Luzia",
+      "ponto_referencia": "Próximo ao comércio local de Santa Luzia"
+    },
+    "status": "Aranha em combate",
+    "data_ocorrencia": "2026-06-21T20:01:00Z"
+  },
+  {
+    "id": 64,
+    "incidente": "Ataque utilizando robôs e drones armados",
+    "crimeComum": false,
+    "vilao_envolvido": "Shocker",
+    "severidade": "Alta",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Bandeirantes",
+      "ponto_referencia": "Próximo ao comércio local de Bandeirantes"
+    },
+    "status": "Aranha a caminho",
+    "data_ocorrencia": "2026-06-22T07:51:00Z"
+  },
+  {
+    "id": 65,
+    "incidente": "Assalto a banco utilizando explosivos alienígenas",
+    "crimeComum": false,
+    "vilao_envolvido": "Mysterio",
+    "severidade": "Crítica",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Bairu",
+      "ponto_referencia": "Próximo ao comércio local de Bairu"
+    },
+    "status": "Sob controle após intervenção",
+    "data_ocorrencia": "2026-06-21T10:45:00Z"
+  },
+  {
+    "id": 66,
+    "incidente": "Roubo de isótopos e produtos químicos experimentais",
+    "crimeComum": false,
+    "vilao_envolvido": "Overdrive",
+    "severidade": "Alta",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Estrela Sul",
+      "ponto_referencia": "Próximo ao comércio local de Estrela Sul"
+    },
+    "status": "Aranha em combate",
+    "data_ocorrencia": "2026-06-24T03:37:00Z"
+  },
+  {
+    "id": 67,
+    "incidente": "Ataque utilizando robôs e drones armados",
+    "crimeComum": false,
+    "vilao_envolvido": "Consertador",
+    "severidade": "Alta",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "São Mateus",
+      "ponto_referencia": "Próximo ao comércio local de São Mateus"
+    },
+    "status": "Polícia aguardando o Aranha",
+    "data_ocorrencia": "2026-06-23T16:00:00Z"
+  },
+  {
+    "id": 68,
+    "incidente": "Invasão de laboratório de pesquisas da UFJF",
+    "crimeComum": false,
+    "vilao_envolvido": "Hipno-Hustler",
+    "severidade": "Alta",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Santa Helena",
+      "ponto_referencia": "Próximo ao comércio local de Santa Helena"
+    },
+    "status": "Aranha em combate",
+    "data_ocorrencia": "2026-06-23T07:54:00Z"
+  },
+  {
+    "id": 69,
+    "incidente": "Formação de barricadas elementais impedindo o trânsito",
+    "crimeComum": false,
+    "vilao_envolvido": "Electro",
+    "severidade": "Crítica",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "São Mateus",
+      "ponto_referencia": "Próximo ao comércio local de São Mateus"
+    },
+    "status": "Vilão imobilizado em teias",
+    "data_ocorrencia": "2026-06-21T09:39:00Z"
+  },
+  {
+    "id": 70,
+    "incidente": "Formação de barricadas elementais impedindo o trânsito",
+    "crimeComum": false,
+    "vilao_envolvido": "Rei do Crime",
+    "severidade": "Alta",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Bandeirantes",
+      "ponto_referencia": "Próximo ao comércio local de Bandeirantes"
+    },
+    "status": "Vilão imobilizado em teias",
+    "data_ocorrencia": "2026-06-24T14:24:00Z"
+  },
+  {
+    "id": 71,
+    "incidente": "Ataque a carro-forte com uso de força sobre-humana",
+    "crimeComum": false,
+    "vilao_envolvido": "Camaleão",
+    "severidade": "Alta",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Nova Era",
+      "ponto_referencia": "Próximo ao comércio local de Nova Era"
+    },
+    "status": "Aranha a caminho",
+    "data_ocorrencia": "2026-06-22T17:40:00Z"
+  },
+  {
+    "id": 72,
+    "incidente": "Formação de barricadas elementais impedindo o trânsito",
+    "crimeComum": false,
+    "vilao_envolvido": "Morsa",
+    "severidade": "Alta",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Teixeiras",
+      "ponto_referencia": "Próximo ao comércio local de Teixeiras"
+    },
+    "status": "Vilão imobilizado em teias",
+    "data_ocorrencia": "2026-06-25T09:49:00Z"
+  },
+  {
+    "id": 73,
+    "incidente": "Controle mental de cidadãos para gerar tumulto",
+    "crimeComum": false,
+    "vilao_envolvido": "Carnificina",
+    "severidade": "Média",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Santa Luzia",
+      "ponto_referencia": "Próximo ao comércio local de Santa Luzia"
+    },
+    "status": "Sob controle após intervenção",
+    "data_ocorrencia": "2026-06-22T07:18:00Z"
+  },
+  {
+    "id": 74,
+    "incidente": "Controle mental de cidadãos para gerar tumulto",
+    "crimeComum": false,
+    "vilao_envolvido": "Venom",
+    "severidade": "Alta",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "São Judas Tadeu",
+      "ponto_referencia": "Próximo ao comércio local de São Judas Tadeu"
+    },
+    "status": "Aranha a caminho",
+    "data_ocorrencia": "2026-06-24T20:07:00Z"
+  },
+  {
+    "id": 75,
+    "incidente": "Ataque bioquímico com gás no sistema de ventilação",
+    "crimeComum": false,
+    "vilao_envolvido": "Venom",
+    "severidade": "Média",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "São Pedro",
+      "ponto_referencia": "Próximo ao comércio local de São Pedro"
+    },
+    "status": "Sob controle após intervenção",
+    "data_ocorrencia": "2026-06-26T18:33:00Z"
+  },
+  {
+    "id": 76,
+    "incidente": "Caos generalizado utilizando ilusões holográficas",
+    "crimeComum": false,
+    "vilao_envolvido": "Lápide",
+    "severidade": "Média",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Poço Rico",
+      "ponto_referencia": "Próximo ao comércio local de Poço Rico"
+    },
+    "status": "Polícia aguardando o Aranha",
+    "data_ocorrencia": "2026-06-23T01:27:00Z"
+  },
+  {
+    "id": 77,
+    "incidente": "Perseguição aérea causando danos a antenas",
+    "crimeComum": false,
+    "vilao_envolvido": "Enxame",
+    "severidade": "Alta",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Estrela Sul",
+      "ponto_referencia": "Próximo ao comércio local de Estrela Sul"
+    },
+    "status": "Alerta máximo",
+    "data_ocorrencia": "2026-06-21T12:02:00Z"
+  },
+  {
+    "id": 78,
+    "incidente": "Ataque a carro-forte com uso de força sobre-humana",
+    "crimeComum": false,
+    "vilao_envolvido": "Rei do Crime",
+    "severidade": "Crítica",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Santa Rita de Cássia",
+      "ponto_referencia": "Próximo ao comércio local de Santa Rita de Cássia"
+    },
+    "status": "Polícia aguardando o Aranha",
+    "data_ocorrencia": "2026-06-20T14:08:00Z"
+  },
+  {
+    "id": 79,
+    "incidente": "Ataque bioquímico com gás no sistema de ventilação",
+    "crimeComum": false,
+    "vilao_envolvido": "Lápide",
+    "severidade": "Média",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Bom Pastor",
+      "ponto_referencia": "Próximo ao comércio local de Bom Pastor"
+    },
+    "status": "Sob controle após intervenção",
+    "data_ocorrencia": "2026-06-27T06:43:00Z"
+  },
+  {
+    "id": 80,
+    "incidente": "Assalto a banco utilizando explosivos alienígenas",
+    "crimeComum": false,
+    "vilao_envolvido": "Chacal",
+    "severidade": "Crítica",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Poço Rico",
+      "ponto_referencia": "Próximo ao comércio local de Poço Rico"
+    },
+    "status": "Vilão imobilizado em teias",
+    "data_ocorrencia": "2026-06-21T15:32:00Z"
+  },
+  {
+    "id": 81,
+    "incidente": "Assalto a banco utilizando explosivos alienígenas",
+    "crimeComum": false,
+    "vilao_envolvido": "Mosca Humana",
+    "severidade": "Alta",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Santa Luzia",
+      "ponto_referencia": "Próximo ao comércio local de Santa Luzia"
+    },
+    "status": "Aranha em combate",
+    "data_ocorrencia": "2026-06-20T16:03:00Z"
+  },
+  {
+    "id": 82,
+    "incidente": "Formação de barricadas elementais impedindo o trânsito",
+    "crimeComum": false,
+    "vilao_envolvido": "Abutre",
+    "severidade": "Alta",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Alto dos Passos",
+      "ponto_referencia": "Próximo ao comércio local de Alto dos Passos"
+    },
+    "status": "Aranha em combate",
+    "data_ocorrencia": "2026-06-21T09:59:00Z"
+  },
+  {
+    "id": 83,
+    "incidente": "Caos generalizado utilizando ilusões holográficas",
+    "crimeComum": false,
+    "vilao_envolvido": "Chacal",
+    "severidade": "Crítica",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Santa Helena",
+      "ponto_referencia": "Próximo ao comércio local de Santa Helena"
+    },
+    "status": "Aranha em combate",
+    "data_ocorrencia": "2026-06-21T14:01:00Z"
+  },
+  {
+    "id": 84,
+    "incidente": "Perseguição aérea causando danos a antenas",
+    "crimeComum": false,
+    "vilao_envolvido": "Camaleão",
+    "severidade": "Média",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Bairu",
+      "ponto_referencia": "Próximo ao comércio local de Bairu"
+    },
+    "status": "Área isolada pela polícia",
+    "data_ocorrencia": "2026-06-25T16:03:00Z"
+  },
+  {
+    "id": 85,
+    "incidente": "Ataque bioquímico com gás no sistema de ventilação",
+    "crimeComum": false,
+    "vilao_envolvido": "Hipno-Hustler",
+    "severidade": "Alta",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Teixeiras",
+      "ponto_referencia": "Próximo ao comércio local de Teixeiras"
+    },
+    "status": "Área isolada pela polícia",
+    "data_ocorrencia": "2026-06-22T04:32:00Z"
+  },
+  {
+    "id": 86,
+    "incidente": "Roubo de isótopos e produtos químicos experimentais",
+    "crimeComum": false,
+    "vilao_envolvido": "Shocker",
+    "severidade": "Alta",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Vila Ideal",
+      "ponto_referencia": "Próximo ao comércio local de Vila Ideal"
+    },
+    "status": "Sob controle após intervenção",
+    "data_ocorrencia": "2026-06-25T03:09:00Z"
+  },
+  {
+    "id": 87,
+    "incidente": "Ataque bioquímico com gás no sistema de ventilação",
+    "crimeComum": false,
+    "vilao_envolvido": "Abutre",
+    "severidade": "Alta",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Santa Terezinha",
+      "ponto_referencia": "Próximo ao comércio local de Santa Terezinha"
+    },
+    "status": "Vilão imobilizado em teias",
+    "data_ocorrencia": "2026-06-21T21:57:00Z"
+  },
+  {
+    "id": 88,
+    "incidente": "Assalto a banco utilizando explosivos alienígenas",
+    "crimeComum": false,
+    "vilao_envolvido": "Duende Verde",
+    "severidade": "Crítica",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Santa Helena",
+      "ponto_referencia": "Próximo ao comércio local de Santa Helena"
+    },
+    "status": "Vilão imobilizado em teias",
+    "data_ocorrencia": "2026-06-28T00:31:00Z"
+  },
+  {
+    "id": 89,
+    "incidente": "Controle mental de cidadãos para gerar tumulto",
+    "crimeComum": false,
+    "vilao_envolvido": "Coelho Branco",
+    "severidade": "Alta",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "São Pedro",
+      "ponto_referencia": "Próximo ao comércio local de São Pedro"
+    },
+    "status": "Área isolada pela polícia",
+    "data_ocorrencia": "2026-06-21T19:04:00Z"
+  },
+  {
+    "id": 90,
+    "incidente": "Ataque bioquímico com gás no sistema de ventilação",
+    "crimeComum": false,
+    "vilao_envolvido": "Duende Verde",
+    "severidade": "Alta",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Bairu",
+      "ponto_referencia": "Próximo ao comércio local de Bairu"
+    },
+    "status": "Alerta máximo",
+    "data_ocorrencia": "2026-06-23T11:13:00Z"
+  },
+  {
+    "id": 91,
+    "incidente": "Controle mental de cidadãos para gerar tumulto",
+    "crimeComum": false,
+    "vilao_envolvido": "Morbius",
+    "severidade": "Média",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Manoel Honório",
+      "ponto_referencia": "Próximo ao comércio local de Manoel Honório"
+    },
+    "status": "Vilão imobilizado em teias",
+    "data_ocorrencia": "2026-06-21T18:41:00Z"
+  },
+  {
+    "id": 92,
+    "incidente": "Ataque a carro-forte com uso de força sobre-humana",
+    "crimeComum": false,
+    "vilao_envolvido": "Mosca Humana",
+    "severidade": "Média",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Bom Pastor",
+      "ponto_referencia": "Próximo ao comércio local de Bom Pastor"
+    },
+    "status": "Aranha a caminho",
+    "data_ocorrencia": "2026-06-24T01:25:00Z"
+  },
+  {
+    "id": 93,
+    "incidente": "Roubo de isótopos e produtos químicos experimentais",
+    "crimeComum": false,
+    "vilao_envolvido": "Doutor Octopus",
+    "severidade": "Média",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Estrela Sul",
+      "ponto_referencia": "Próximo ao comércio local de Estrela Sul"
+    },
+    "status": "Alerta máximo",
+    "data_ocorrencia": "2026-06-25T01:50:00Z"
+  },
+  {
+    "id": 94,
+    "incidente": "Ataque bioquímico com gás no sistema de ventilação",
+    "crimeComum": false,
+    "vilao_envolvido": "Tarântula",
+    "severidade": "Alta",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Santa Luzia",
+      "ponto_referencia": "Próximo ao comércio local de Santa Luzia"
+    },
+    "status": "Aranha a caminho",
+    "data_ocorrencia": "2026-06-27T00:52:00Z"
+  },
+  {
+    "id": 95,
+    "incidente": "Formação de barricadas elementais impedindo o trânsito",
+    "crimeComum": false,
+    "vilao_envolvido": "Sandman",
+    "severidade": "Média",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Linhares",
+      "ponto_referencia": "Próximo ao comércio local de Linhares"
+    },
+    "status": "Aranha a caminho",
+    "data_ocorrencia": "2026-06-23T10:26:00Z"
+  },
+  {
+    "id": 96,
+    "incidente": "Caos generalizado utilizando ilusões holográficas",
+    "crimeComum": false,
+    "vilao_envolvido": "Sandman",
+    "severidade": "Crítica",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Aeroporto",
+      "ponto_referencia": "Próximo ao comércio local de Aeroporto"
+    },
+    "status": "Área isolada pela polícia",
+    "data_ocorrencia": "2026-06-25T03:19:00Z"
+  },
+  {
+    "id": 97,
+    "incidente": "Invasão de laboratório de pesquisas da UFJF",
+    "crimeComum": false,
+    "vilao_envolvido": "Doutor Octopus",
+    "severidade": "Média",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Aeroporto",
+      "ponto_referencia": "Próximo ao comércio local de Aeroporto"
+    },
+    "status": "Alerta máximo",
+    "data_ocorrencia": "2026-06-27T20:22:00Z"
+  },
+  {
+    "id": 98,
+    "incidente": "Roubo de isótopos e produtos químicos experimentais",
+    "crimeComum": false,
+    "vilao_envolvido": "Duende Macabro",
+    "severidade": "Média",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Bandeirantes",
+      "ponto_referencia": "Próximo ao comércio local de Bandeirantes"
+    },
+    "status": "Aranha a caminho",
+    "data_ocorrencia": "2026-06-26T13:50:00Z"
+  },
+  {
+    "id": 99,
+    "incidente": "Formação de barricadas elementais impedindo o trânsito",
+    "crimeComum": false,
+    "vilao_envolvido": "Escorpião",
+    "severidade": "Crítica",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Aeroporto",
+      "ponto_referencia": "Próximo ao comércio local de Aeroporto"
+    },
+    "status": "Alerta máximo",
+    "data_ocorrencia": "2026-06-21T11:53:00Z"
+  },
+  {
+    "id": 100,
+    "incidente": "Perseguição aérea causando danos a antenas",
+    "crimeComum": false,
+    "vilao_envolvido": "Kraven",
+    "severidade": "Crítica",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "São Pedro",
+      "ponto_referencia": "Próximo ao comércio local de São Pedro"
+    },
+    "status": "Área isolada pela polícia",
+    "data_ocorrencia": "2026-06-22T23:53:00Z"
+  },
+  {
+    "id": 101,
+    "incidente": "Extorsão com ameaça de destruição de prédios",
+    "crimeComum": false,
+    "vilao_envolvido": "Lápide",
+    "severidade": "Alta",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Poço Rico",
+      "ponto_referencia": "Próximo ao comércio local de Poço Rico"
+    },
+    "status": "Polícia aguardando o Aranha",
+    "data_ocorrencia": "2026-06-26T05:04:00Z"
+  },
+  {
+    "id": 102,
+    "incidente": "Controle mental de cidadãos para gerar tumulto",
+    "crimeComum": false,
+    "vilao_envolvido": "Electro",
+    "severidade": "Alta",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Poço Rico",
+      "ponto_referencia": "Próximo ao comércio local de Poço Rico"
+    },
+    "status": "Área isolada pela polícia",
+    "data_ocorrencia": "2026-06-25T08:15:00Z"
+  },
+  {
+    "id": 103,
+    "incidente": "Tráfico de entorpecentes em praça local",
+    "crimeComum": true,
+    "vilao_envolvido": null,
+    "severidade": "Baixa",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Granbery",
+      "ponto_referencia": "Próximo ao comércio local de Granbery"
+    },
+    "status": "Polícia no local",
+    "data_ocorrencia": "2026-06-24T17:07:00Z"
+  },
+  {
+    "id": 104,
+    "incidente": "Assalto a banco utilizando explosivos alienígenas",
+    "crimeComum": false,
+    "vilao_envolvido": "Canguru",
+    "severidade": "Alta",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Granbery",
+      "ponto_referencia": "Próximo ao comércio local de Granbery"
+    },
+    "status": "Aranha a caminho",
+    "data_ocorrencia": "2026-06-24T05:56:00Z"
+  },
+  {
+    "id": 105,
+    "incidente": "Perseguição aérea causando danos a antenas",
+    "crimeComum": false,
+    "vilao_envolvido": "Coelho Branco",
+    "severidade": "Alta",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "São Judas Tadeu",
+      "ponto_referencia": "Próximo ao comércio local de São Judas Tadeu"
+    },
+    "status": "Alerta máximo",
+    "data_ocorrencia": "2026-06-27T23:03:00Z"
+  },
+  {
+    "id": 106,
+    "incidente": "Controle mental de cidadãos para gerar tumulto",
+    "crimeComum": false,
+    "vilao_envolvido": "Gata Negra",
+    "severidade": "Crítica",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Aeroporto",
+      "ponto_referencia": "Próximo ao comércio local de Aeroporto"
+    },
+    "status": "Área isolada pela polícia",
+    "data_ocorrencia": "2026-06-27T11:35:00Z"
+  },
+  {
+    "id": 107,
+    "incidente": "Ataque utilizando robôs e drones armados",
+    "crimeComum": false,
+    "vilao_envolvido": "Electro",
+    "severidade": "Alta",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Bandeirantes",
+      "ponto_referencia": "Próximo ao comércio local de Bandeirantes"
+    },
+    "status": "Vilão imobilizado em teias",
+    "data_ocorrencia": "2026-06-21T12:46:00Z"
+  },
+  {
+    "id": 108,
+    "incidente": "Caos generalizado utilizando ilusões holográficas",
+    "crimeComum": false,
+    "vilao_envolvido": "Shocker",
+    "severidade": "Alta",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Cascatinha",
+      "ponto_referencia": "Próximo ao comércio local de Cascatinha"
+    },
+    "status": "Área isolada pela polícia",
+    "data_ocorrencia": "2026-06-26T18:14:00Z"
+  },
+  {
+    "id": 109,
+    "incidente": "Destruição em massa no asfalto com uso de tecnologia",
+    "crimeComum": false,
+    "vilao_envolvido": "Chacal",
+    "severidade": "Média",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Bairu",
+      "ponto_referencia": "Próximo ao comércio local de Bairu"
+    },
+    "status": "Aranha a caminho",
+    "data_ocorrencia": "2026-06-20T14:16:00Z"
+  },
+  {
+    "id": 110,
+    "incidente": "Roubo de isótopos e produtos químicos experimentais",
+    "crimeComum": false,
+    "vilao_envolvido": "Camaleão",
+    "severidade": "Alta",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Poço Rico",
+      "ponto_referencia": "Próximo ao comércio local de Poço Rico"
+    },
+    "status": "Aranha a caminho",
+    "data_ocorrencia": "2026-06-24T04:50:00Z"
+  },
+  {
+    "id": 111,
+    "incidente": "Ataque a carro-forte com uso de força sobre-humana",
+    "crimeComum": false,
+    "vilao_envolvido": "Duende Verde",
+    "severidade": "Média",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Linhares",
+      "ponto_referencia": "Próximo ao comércio local de Linhares"
+    },
+    "status": "Alerta máximo",
+    "data_ocorrencia": "2026-06-27T22:05:00Z"
+  },
+  {
+    "id": 112,
+    "incidente": "Perseguição aérea causando danos a antenas",
+    "crimeComum": false,
+    "vilao_envolvido": "Camaleão",
+    "severidade": "Alta",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Linhares",
+      "ponto_referencia": "Próximo ao comércio local de Linhares"
+    },
+    "status": "Vilão imobilizado em teias",
+    "data_ocorrencia": "2026-06-26T10:19:00Z"
+  },
+  {
+    "id": 113,
+    "incidente": "Formação de barricadas elementais impedindo o trânsito",
+    "crimeComum": false,
+    "vilao_envolvido": "Búfalo",
+    "severidade": "Alta",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Bairu",
+      "ponto_referencia": "Próximo ao comércio local de Bairu"
+    },
+    "status": "Aranha a caminho",
+    "data_ocorrencia": "2026-06-26T16:35:00Z"
+  },
+  {
+    "id": 114,
+    "incidente": "Destruição em massa no asfalto com uso de tecnologia",
+    "crimeComum": false,
+    "vilao_envolvido": "Consertador",
+    "severidade": "Média",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Aeroporto",
+      "ponto_referencia": "Próximo ao comércio local de Aeroporto"
+    },
+    "status": "Polícia aguardando o Aranha",
+    "data_ocorrencia": "2026-06-26T18:56:00Z"
+  },
+  {
+    "id": 115,
+    "incidente": "Invasão de laboratório de pesquisas da UFJF",
+    "crimeComum": false,
+    "vilao_envolvido": "Mysterio",
+    "severidade": "Crítica",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Jóquei Clube",
+      "ponto_referencia": "Próximo ao comércio local de Jóquei Clube"
+    },
+    "status": "Vilão imobilizado em teias",
+    "data_ocorrencia": "2026-06-25T11:06:00Z"
+  },
+  {
+    "id": 116,
+    "incidente": "Tentativa de sabotagem na subestação da Cemig",
+    "crimeComum": false,
+    "vilao_envolvido": "Duende Verde",
+    "severidade": "Média",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Alto dos Passos",
+      "ponto_referencia": "Próximo ao comércio local de Alto dos Passos"
+    },
+    "status": "Área isolada pela polícia",
+    "data_ocorrencia": "2026-06-24T20:40:00Z"
+  },
+  {
+    "id": 117,
+    "incidente": "Assalto a banco utilizando explosivos alienígenas",
+    "crimeComum": false,
+    "vilao_envolvido": "Chacal",
+    "severidade": "Alta",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "São Judas Tadeu",
+      "ponto_referencia": "Próximo ao comércio local de São Judas Tadeu"
+    },
+    "status": "Aranha em combate",
+    "data_ocorrencia": "2026-06-20T17:24:00Z"
+  },
+  {
+    "id": 118,
+    "incidente": "Caos generalizado utilizando ilusões holográficas",
+    "crimeComum": false,
+    "vilao_envolvido": "Homem-Hídrico",
+    "severidade": "Média",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Jóquei Clube",
+      "ponto_referencia": "Próximo ao comércio local de Jóquei Clube"
+    },
+    "status": "Sob controle após intervenção",
+    "data_ocorrencia": "2026-06-21T05:08:00Z"
+  },
+  {
+    "id": 119,
+    "incidente": "Ataque utilizando robôs e drones armados",
+    "crimeComum": false,
+    "vilao_envolvido": "Morbius",
+    "severidade": "Crítica",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Santa Helena",
+      "ponto_referencia": "Próximo ao comércio local de Santa Helena"
+    },
+    "status": "Polícia aguardando o Aranha",
+    "data_ocorrencia": "2026-06-23T09:54:00Z"
+  },
+  {
+    "id": 120,
+    "incidente": "Roubo de isótopos e produtos químicos experimentais",
+    "crimeComum": false,
+    "vilao_envolvido": "Sandman",
+    "severidade": "Crítica",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Santa Terezinha",
+      "ponto_referencia": "Próximo ao comércio local de Santa Terezinha"
+    },
+    "status": "Aranha a caminho",
+    "data_ocorrencia": "2026-06-26T00:25:00Z"
+  },
+  {
+    "id": 121,
+    "incidente": "Extorsão com ameaça de destruição de prédios",
+    "crimeComum": false,
+    "vilao_envolvido": "Gata Negra",
+    "severidade": "Crítica",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Santa Terezinha",
+      "ponto_referencia": "Próximo ao comércio local de Santa Terezinha"
+    },
+    "status": "Vilão imobilizado em teias",
+    "data_ocorrencia": "2026-06-22T19:18:00Z"
+  },
+  {
+    "id": 122,
+    "incidente": "Sequestro relâmpago perto de caixa eletrônico",
+    "crimeComum": true,
+    "vilao_envolvido": null,
+    "severidade": "Baixa",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Linhares",
+      "ponto_referencia": "Próximo ao comércio local de Linhares"
+    },
+    "status": "Suspeito detido",
+    "data_ocorrencia": "2026-06-26T02:29:00Z"
+  },
+  {
+    "id": 123,
+    "incidente": "Ataque a carro-forte com uso de força sobre-humana",
+    "crimeComum": false,
+    "vilao_envolvido": "Magma",
+    "severidade": "Alta",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Vila Ideal",
+      "ponto_referencia": "Próximo ao comércio local de Vila Ideal"
+    },
+    "status": "Área isolada pela polícia",
+    "data_ocorrencia": "2026-06-25T17:17:00Z"
+  },
+  {
+    "id": 124,
+    "incidente": "Ataque utilizando robôs e drones armados",
+    "crimeComum": false,
+    "vilao_envolvido": "Magma",
+    "severidade": "Média",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Cascatinha",
+      "ponto_referencia": "Próximo ao comércio local de Cascatinha"
+    },
+    "status": "Alerta máximo",
+    "data_ocorrencia": "2026-06-24T18:09:00Z"
+  },
+  {
+    "id": 125,
+    "incidente": "Ataque utilizando robôs e drones armados",
+    "crimeComum": false,
+    "vilao_envolvido": "Carnificina",
+    "severidade": "Crítica",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Poço Rico",
+      "ponto_referencia": "Próximo ao comércio local de Poço Rico"
+    },
+    "status": "Aranha a caminho",
+    "data_ocorrencia": "2026-06-21T08:09:00Z"
+  },
+  {
+    "id": 126,
+    "incidente": "Invasão cibernética da infraestrutura local causando apagão",
+    "crimeComum": false,
+    "vilao_envolvido": "Magma",
+    "severidade": "Média",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Nova Era",
+      "ponto_referencia": "Próximo ao comércio local de Nova Era"
+    },
+    "status": "Área isolada pela polícia",
+    "data_ocorrencia": "2026-06-20T11:29:00Z"
+  },
+  {
+    "id": 127,
+    "incidente": "Ataque utilizando robôs e drones armados",
+    "crimeComum": false,
+    "vilao_envolvido": "Venom",
+    "severidade": "Média",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Granbery",
+      "ponto_referencia": "Próximo ao comércio local de Granbery"
+    },
+    "status": "Aranha em combate",
+    "data_ocorrencia": "2026-06-24T01:48:00Z"
+  },
+  {
+    "id": 128,
+    "incidente": "Extorsão com ameaça de destruição de prédios",
+    "crimeComum": false,
+    "vilao_envolvido": "Electro",
+    "severidade": "Crítica",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Estrela Sul",
+      "ponto_referencia": "Próximo ao comércio local de Estrela Sul"
+    },
+    "status": "Aranha a caminho",
+    "data_ocorrencia": "2026-06-24T06:53:00Z"
+  },
+  {
+    "id": 129,
+    "incidente": "Ataque a carro-forte com uso de força sobre-humana",
+    "crimeComum": false,
+    "vilao_envolvido": "Electro",
+    "severidade": "Crítica",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Granbery",
+      "ponto_referencia": "Próximo ao comércio local de Granbery"
+    },
+    "status": "Alerta máximo",
+    "data_ocorrencia": "2026-06-26T19:22:00Z"
+  },
+  {
+    "id": 130,
+    "incidente": "Formação de barricadas elementais impedindo o trânsito",
+    "crimeComum": false,
+    "vilao_envolvido": "Grande Roda",
+    "severidade": "Crítica",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "São Judas Tadeu",
+      "ponto_referencia": "Próximo ao comércio local de São Judas Tadeu"
+    },
+    "status": "Aranha a caminho",
+    "data_ocorrencia": "2026-06-24T04:34:00Z"
+  },
+  {
+    "id": 131,
+    "incidente": "Furto de estepe",
+    "crimeComum": true,
+    "vilao_envolvido": null,
+    "severidade": "Baixa",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Nova Era",
+      "ponto_referencia": "Próximo ao comércio local de Nova Era"
+    },
+    "status": "Suspeito detido",
+    "data_ocorrencia": "2026-06-21T01:26:00Z"
+  },
+  {
+    "id": 132,
+    "incidente": "Furto de cabos elétricos deixando a rua sem luz",
+    "crimeComum": true,
+    "vilao_envolvido": null,
+    "severidade": "Média",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Santa Luzia",
+      "ponto_referencia": "Próximo ao comércio local de Santa Luzia"
+    },
+    "status": "Investigação em andamento",
+    "data_ocorrencia": "2026-06-21T15:21:00Z"
+  },
+  {
+    "id": 133,
+    "incidente": "Formação de barricadas elementais impedindo o trânsito",
+    "crimeComum": false,
+    "vilao_envolvido": "Electro",
+    "severidade": "Crítica",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Teixeiras",
+      "ponto_referencia": "Próximo ao comércio local de Teixeiras"
+    },
+    "status": "Aranha a caminho",
+    "data_ocorrencia": "2026-06-25T06:17:00Z"
+  },
+  {
+    "id": 134,
+    "incidente": "Vandalismo no relógio da praça",
+    "crimeComum": true,
+    "vilao_envolvido": null,
+    "severidade": "Média",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "São Pedro",
+      "ponto_referencia": "Próximo ao comércio local de São Pedro"
+    },
+    "status": "Resolvido pela PM",
+    "data_ocorrencia": "2026-06-26T00:25:00Z"
+  },
+  {
+    "id": 135,
+    "incidente": "Invasão cibernética da infraestrutura local causando apagão",
+    "crimeComum": false,
+    "vilao_envolvido": "Kraven",
+    "severidade": "Crítica",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Jóquei Clube",
+      "ponto_referencia": "Próximo ao comércio local de Jóquei Clube"
+    },
+    "status": "Aranha a caminho",
+    "data_ocorrencia": "2026-06-21T10:03:00Z"
+  },
+  {
+    "id": 136,
+    "incidente": "Estelionato contra idosos na saída do banco",
+    "crimeComum": true,
+    "vilao_envolvido": null,
+    "severidade": "Baixa",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Linhares",
+      "ponto_referencia": "Próximo ao comércio local de Linhares"
+    },
+    "status": "Boletim de ocorrência registrado",
+    "data_ocorrencia": "2026-06-21T13:01:00Z"
+  },
+  {
+    "id": 137,
+    "incidente": "Arrombamento de comércio durante a madrugada",
+    "crimeComum": true,
+    "vilao_envolvido": null,
+    "severidade": "Baixa",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Aeroporto",
+      "ponto_referencia": "Próximo ao comércio local de Aeroporto"
+    },
+    "status": "Resolvido pela PM",
+    "data_ocorrencia": "2026-06-24T23:49:00Z"
+  },
+  {
+    "id": 138,
+    "incidente": "Invasão de laboratório de pesquisas da UFJF",
+    "crimeComum": false,
+    "vilao_envolvido": "Coelho Branco",
+    "severidade": "Crítica",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Granbery",
+      "ponto_referencia": "Próximo ao comércio local de Granbery"
+    },
+    "status": "Área isolada pela polícia",
+    "data_ocorrencia": "2026-06-23T22:25:00Z"
+  },
+  {
+    "id": 139,
+    "incidente": "Assalto a mão armada em ponto de ônibus",
+    "crimeComum": true,
+    "vilao_envolvido": null,
+    "severidade": "Média",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Benfica",
+      "ponto_referencia": "Próximo ao comércio local de Benfica"
+    },
+    "status": "Resolvido pela PM",
+    "data_ocorrencia": "2026-06-21T12:42:00Z"
+  },
+  {
+    "id": 140,
+    "incidente": "Formação de barricadas elementais impedindo o trânsito",
+    "crimeComum": false,
+    "vilao_envolvido": "Hipno-Hustler",
+    "severidade": "Alta",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Cascatinha",
+      "ponto_referencia": "Próximo ao comércio local de Cascatinha"
+    },
+    "status": "Aranha em combate",
+    "data_ocorrencia": "2026-06-23T11:24:00Z"
+  },
+  {
+    "id": 141,
+    "incidente": "Invasão de laboratório de pesquisas da UFJF",
+    "crimeComum": false,
+    "vilao_envolvido": "Kraven",
+    "severidade": "Média",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Linhares",
+      "ponto_referencia": "Próximo ao comércio local de Linhares"
+    },
+    "status": "Área isolada pela polícia",
+    "data_ocorrencia": "2026-06-22T01:14:00Z"
+  },
+  {
+    "id": 142,
+    "incidente": "Furto de veículo estacionado na via pública",
+    "crimeComum": true,
+    "vilao_envolvido": null,
+    "severidade": "Baixa",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Estrela Sul",
+      "ponto_referencia": "Próximo ao comércio local de Estrela Sul"
+    },
+    "status": "Investigação em andamento",
+    "data_ocorrencia": "2026-06-25T07:08:00Z"
+  },
+  {
+    "id": 143,
+    "incidente": "Formação de barricadas elementais impedindo o trânsito",
+    "crimeComum": false,
+    "vilao_envolvido": "Enxame",
+    "severidade": "Crítica",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Manoel Honório",
+      "ponto_referencia": "Próximo ao comércio local de Manoel Honório"
+    },
+    "status": "Área isolada pela polícia",
+    "data_ocorrencia": "2026-06-20T13:56:00Z"
+  },
+  {
+    "id": 144,
+    "incidente": "Assalto a banco utilizando explosivos alienígenas",
+    "crimeComum": false,
+    "vilao_envolvido": "Lagarto",
+    "severidade": "Crítica",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Alto dos Passos",
+      "ponto_referencia": "Próximo ao comércio local de Alto dos Passos"
+    },
+    "status": "Polícia aguardando o Aranha",
+    "data_ocorrencia": "2026-06-21T16:59:00Z"
+  },
+  {
+    "id": 145,
+    "incidente": "Ataque utilizando robôs e drones armados",
+    "crimeComum": false,
+    "vilao_envolvido": "Doutor Octopus",
+    "severidade": "Crítica",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Alto dos Passos",
+      "ponto_referencia": "Próximo ao comércio local de Alto dos Passos"
+    },
+    "status": "Aranha a caminho",
+    "data_ocorrencia": "2026-06-22T11:01:00Z"
+  },
+  {
+    "id": 146,
+    "incidente": "Perseguição aérea causando danos a antenas",
+    "crimeComum": false,
+    "vilao_envolvido": "Camaleão",
+    "severidade": "Alta",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Jóquei Clube",
+      "ponto_referencia": "Próximo ao comércio local de Jóquei Clube"
+    },
+    "status": "Sob controle após intervenção",
+    "data_ocorrencia": "2026-06-20T15:03:00Z"
+  },
+  {
+    "id": 147,
+    "incidente": "Tentativa de sabotagem na subestação da Cemig",
+    "crimeComum": false,
+    "vilao_envolvido": "Bumerangue",
+    "severidade": "Crítica",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Vila Ideal",
+      "ponto_referencia": "Próximo ao comércio local de Vila Ideal"
+    },
+    "status": "Polícia aguardando o Aranha",
+    "data_ocorrencia": "2026-06-24T16:03:00Z"
+  },
+  {
+    "id": 148,
+    "incidente": "Formação de barricadas elementais impedindo o trânsito",
+    "crimeComum": false,
+    "vilao_envolvido": "Morsa",
+    "severidade": "Alta",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Nova Era",
+      "ponto_referencia": "Próximo ao comércio local de Nova Era"
+    },
+    "status": "Vilão imobilizado em teias",
+    "data_ocorrencia": "2026-06-27T11:15:00Z"
+  },
+  {
+    "id": 149,
+    "incidente": "Tentativa de sabotagem na subestação da Cemig",
+    "crimeComum": false,
+    "vilao_envolvido": "Morsa",
+    "severidade": "Alta",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Poço Rico",
+      "ponto_referencia": "Próximo ao comércio local de Poço Rico"
+    },
+    "status": "Aranha em combate",
+    "data_ocorrencia": "2026-06-20T16:22:00Z"
+  },
+  {
+    "id": 150,
+    "incidente": "Extorsão com ameaça de destruição de prédios",
+    "crimeComum": false,
+    "vilao_envolvido": "Lagarto",
+    "severidade": "Média",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Teixeiras",
+      "ponto_referencia": "Próximo ao comércio local de Teixeiras"
+    },
+    "status": "Polícia aguardando o Aranha",
+    "data_ocorrencia": "2026-06-20T23:52:00Z"
+  },
+  {
+    "id": 151,
+    "incidente": "Ataque bioquímico com gás no sistema de ventilação",
+    "crimeComum": false,
+    "vilao_envolvido": "Lápide",
+    "severidade": "Média",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Vila Ideal",
+      "ponto_referencia": "Próximo ao comércio local de Vila Ideal"
+    },
+    "status": "Alerta máximo",
+    "data_ocorrencia": "2026-06-27T06:20:00Z"
+  },
+  {
+    "id": 152,
+    "incidente": "Caos generalizado utilizando ilusões holográficas",
+    "crimeComum": false,
+    "vilao_envolvido": "Lagarto",
+    "severidade": "Alta",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Linhares",
+      "ponto_referencia": "Próximo ao comércio local de Linhares"
+    },
+    "status": "Aranha em combate",
+    "data_ocorrencia": "2026-06-25T06:44:00Z"
+  },
+  {
+    "id": 153,
+    "incidente": "Ataque bioquímico com gás no sistema de ventilação",
+    "crimeComum": false,
+    "vilao_envolvido": "Búfalo",
+    "severidade": "Alta",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Vila Ideal",
+      "ponto_referencia": "Próximo ao comércio local de Vila Ideal"
+    },
+    "status": "Sob controle após intervenção",
+    "data_ocorrencia": "2026-06-24T06:24:00Z"
+  },
+  {
+    "id": 154,
+    "incidente": "Ataque bioquímico com gás no sistema de ventilação",
+    "crimeComum": false,
+    "vilao_envolvido": "Carnificina",
+    "severidade": "Crítica",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Ladeira",
+      "ponto_referencia": "Próximo ao comércio local de Ladeira"
+    },
+    "status": "Área isolada pela polícia",
+    "data_ocorrencia": "2026-06-24T00:57:00Z"
+  },
+  {
+    "id": 155,
+    "incidente": "Ataque bioquímico com gás no sistema de ventilação",
+    "crimeComum": false,
+    "vilao_envolvido": "Enxame",
+    "severidade": "Alta",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "São Pedro",
+      "ponto_referencia": "Próximo ao comércio local de São Pedro"
+    },
+    "status": "Alerta máximo",
+    "data_ocorrencia": "2026-06-23T11:09:00Z"
+  },
+  {
+    "id": 156,
+    "incidente": "Caos generalizado utilizando ilusões holográficas",
+    "crimeComum": false,
+    "vilao_envolvido": "Carnificina",
+    "severidade": "Alta",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Vila Ideal",
+      "ponto_referencia": "Próximo ao comércio local de Vila Ideal"
+    },
+    "status": "Aranha em combate",
+    "data_ocorrencia": "2026-06-21T16:01:00Z"
+  },
+  {
+    "id": 157,
+    "incidente": "Perseguição aérea causando danos a antenas",
+    "crimeComum": false,
+    "vilao_envolvido": "Hipno-Hustler",
+    "severidade": "Crítica",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Linhares",
+      "ponto_referencia": "Próximo ao comércio local de Linhares"
+    },
+    "status": "Sob controle após intervenção",
+    "data_ocorrencia": "2026-06-26T04:39:00Z"
+  },
+  {
+    "id": 158,
+    "incidente": "Roubo de isótopos e produtos químicos experimentais",
+    "crimeComum": false,
+    "vilao_envolvido": "Morsa",
+    "severidade": "Alta",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Nova Era",
+      "ponto_referencia": "Próximo ao comércio local de Nova Era"
+    },
+    "status": "Alerta máximo",
+    "data_ocorrencia": "2026-06-25T12:13:00Z"
+  },
+  {
+    "id": 159,
+    "incidente": "Ataque utilizando robôs e drones armados",
+    "crimeComum": false,
+    "vilao_envolvido": "Doutor Octopus",
+    "severidade": "Alta",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Santa Rita de Cássia",
+      "ponto_referencia": "Próximo ao comércio local de Santa Rita de Cássia"
+    },
+    "status": "Sob controle após intervenção",
+    "data_ocorrencia": "2026-06-22T17:06:00Z"
+  },
+  {
+    "id": 160,
+    "incidente": "Destruição em massa no asfalto com uso de tecnologia",
+    "crimeComum": false,
+    "vilao_envolvido": "Lagarto",
+    "severidade": "Média",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Vila Ideal",
+      "ponto_referencia": "Próximo ao comércio local de Vila Ideal"
+    },
+    "status": "Vilão imobilizado em teias",
+    "data_ocorrencia": "2026-06-27T10:09:00Z"
+  },
+  {
+    "id": 161,
+    "incidente": "Ataque utilizando robôs e drones armados",
+    "crimeComum": false,
+    "vilao_envolvido": "Chacal",
+    "severidade": "Crítica",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Bandeirantes",
+      "ponto_referencia": "Próximo ao comércio local de Bandeirantes"
+    },
+    "status": "Sob controle após intervenção",
+    "data_ocorrencia": "2026-06-21T21:36:00Z"
+  },
+  {
+    "id": 162,
+    "incidente": "Invasão de laboratório de pesquisas da UFJF",
+    "crimeComum": false,
+    "vilao_envolvido": "Mysterio",
+    "severidade": "Alta",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Teixeiras",
+      "ponto_referencia": "Próximo ao comércio local de Teixeiras"
+    },
+    "status": "Área isolada pela polícia",
+    "data_ocorrencia": "2026-06-20T20:45:00Z"
+  },
+  {
+    "id": 163,
+    "incidente": "Perseguição aérea causando danos a antenas",
+    "crimeComum": false,
+    "vilao_envolvido": "Senhor Negativo",
+    "severidade": "Crítica",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Alto dos Passos",
+      "ponto_referencia": "Próximo ao comércio local de Alto dos Passos"
+    },
+    "status": "Polícia aguardando o Aranha",
+    "data_ocorrencia": "2026-06-24T21:53:00Z"
+  },
+  {
+    "id": 164,
+    "incidente": "Roubo de isótopos e produtos químicos experimentais",
+    "crimeComum": false,
+    "vilao_envolvido": "Electro",
+    "severidade": "Alta",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Jóquei Clube",
+      "ponto_referencia": "Próximo ao comércio local de Jóquei Clube"
+    },
+    "status": "Aranha a caminho",
+    "data_ocorrencia": "2026-06-20T15:24:00Z"
+  },
+  {
+    "id": 165,
+    "incidente": "Assalto a banco utilizando explosivos alienígenas",
+    "crimeComum": false,
+    "vilao_envolvido": "Gata Negra",
+    "severidade": "Média",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Linhares",
+      "ponto_referencia": "Próximo ao comércio local de Linhares"
+    },
+    "status": "Aranha em combate",
+    "data_ocorrencia": "2026-06-26T04:40:00Z"
+  },
+  {
+    "id": 166,
+    "incidente": "Tentativa de sabotagem na subestação da Cemig",
+    "crimeComum": false,
+    "vilao_envolvido": "Coelho Branco",
+    "severidade": "Média",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Poço Rico",
+      "ponto_referencia": "Próximo ao comércio local de Poço Rico"
+    },
+    "status": "Aranha em combate",
+    "data_ocorrencia": "2026-06-22T17:12:00Z"
+  },
+  {
+    "id": 167,
+    "incidente": "Assalto a banco utilizando explosivos alienígenas",
+    "crimeComum": false,
+    "vilao_envolvido": "Grande Roda",
+    "severidade": "Alta",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Linhares",
+      "ponto_referencia": "Próximo ao comércio local de Linhares"
+    },
+    "status": "Polícia aguardando o Aranha",
+    "data_ocorrencia": "2026-06-23T01:03:00Z"
+  },
+  {
+    "id": 168,
+    "incidente": "Invasão cibernética da infraestrutura local causando apagão",
+    "crimeComum": false,
+    "vilao_envolvido": "Coelho Branco",
+    "severidade": "Alta",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Jóquei Clube",
+      "ponto_referencia": "Próximo ao comércio local de Jóquei Clube"
+    },
+    "status": "Alerta máximo",
+    "data_ocorrencia": "2026-06-21T07:19:00Z"
+  },
+  {
+    "id": 169,
+    "incidente": "Invasão de laboratório de pesquisas da UFJF",
+    "crimeComum": false,
+    "vilao_envolvido": "Electro",
+    "severidade": "Crítica",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Nova Era",
+      "ponto_referencia": "Próximo ao comércio local de Nova Era"
+    },
+    "status": "Vilão imobilizado em teias",
+    "data_ocorrencia": "2026-06-26T18:17:00Z"
+  },
+  {
+    "id": 170,
+    "incidente": "Caos generalizado utilizando ilusões holográficas",
+    "crimeComum": false,
+    "vilao_envolvido": "Gata Negra",
+    "severidade": "Alta",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Linhares",
+      "ponto_referencia": "Próximo ao comércio local de Linhares"
+    },
+    "status": "Alerta máximo",
+    "data_ocorrencia": "2026-06-22T12:27:00Z"
+  },
+  {
+    "id": 171,
+    "incidente": "Invasão a domicílio vazio",
+    "crimeComum": true,
+    "vilao_envolvido": null,
+    "severidade": "Baixa",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Santa Helena",
+      "ponto_referencia": "Próximo ao comércio local de Santa Helena"
+    },
+    "status": "Polícia em perseguição",
+    "data_ocorrencia": "2026-06-24T23:13:00Z"
+  },
+  {
+    "id": 172,
+    "incidente": "Ataque a carro-forte com uso de força sobre-humana",
+    "crimeComum": false,
+    "vilao_envolvido": "Carnificina",
+    "severidade": "Alta",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Santa Helena",
+      "ponto_referencia": "Próximo ao comércio local de Santa Helena"
+    },
+    "status": "Área isolada pela polícia",
+    "data_ocorrencia": "2026-06-23T11:47:00Z"
+  },
+  {
+    "id": 173,
+    "incidente": "Controle mental de cidadãos para gerar tumulto",
+    "crimeComum": false,
+    "vilao_envolvido": "Canguru",
+    "severidade": "Alta",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Bairu",
+      "ponto_referencia": "Próximo ao comércio local de Bairu"
+    },
+    "status": "Aranha em combate",
+    "data_ocorrencia": "2026-06-23T07:39:00Z"
+  },
+  {
+    "id": 174,
+    "incidente": "Ataque utilizando robôs e drones armados",
+    "crimeComum": false,
+    "vilao_envolvido": "Carnificina",
+    "severidade": "Alta",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Santa Helena",
+      "ponto_referencia": "Próximo ao comércio local de Santa Helena"
+    },
+    "status": "Área isolada pela polícia",
+    "data_ocorrencia": "2026-06-25T22:02:00Z"
+  },
+  {
+    "id": 175,
+    "incidente": "Sequestro relâmpago perto de caixa eletrônico",
+    "crimeComum": true,
+    "vilao_envolvido": null,
+    "severidade": "Baixa",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "São Mateus",
+      "ponto_referencia": "Próximo ao comércio local de São Mateus"
+    },
+    "status": "Investigação em andamento",
+    "data_ocorrencia": "2026-06-27T16:09:00Z"
+  },
+  {
+    "id": 176,
+    "incidente": "Assalto a banco utilizando explosivos alienígenas",
+    "crimeComum": false,
+    "vilao_envolvido": "Búfalo",
+    "severidade": "Média",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Benfica",
+      "ponto_referencia": "Próximo ao comércio local de Benfica"
+    },
+    "status": "Polícia aguardando o Aranha",
+    "data_ocorrencia": "2026-06-21T17:30:00Z"
+  },
+  {
+    "id": 177,
+    "incidente": "Roubo de isótopos e produtos químicos experimentais",
+    "crimeComum": false,
+    "vilao_envolvido": "Morbius",
+    "severidade": "Média",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Bom Pastor",
+      "ponto_referencia": "Próximo ao comércio local de Bom Pastor"
+    },
+    "status": "Aranha em combate",
+    "data_ocorrencia": "2026-06-27T06:10:00Z"
+  },
+  {
+    "id": 178,
+    "incidente": "Roubo de isótopos e produtos químicos experimentais",
+    "crimeComum": false,
+    "vilao_envolvido": "Consertador",
+    "severidade": "Crítica",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Benfica",
+      "ponto_referencia": "Próximo ao comércio local de Benfica"
+    },
+    "status": "Sob controle após intervenção",
+    "data_ocorrencia": "2026-06-25T06:03:00Z"
+  },
+  {
+    "id": 179,
+    "incidente": "Controle mental de cidadãos para gerar tumulto",
+    "crimeComum": false,
+    "vilao_envolvido": "Morsa",
+    "severidade": "Crítica",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Poço Rico",
+      "ponto_referencia": "Próximo ao comércio local de Poço Rico"
+    },
+    "status": "Vilão imobilizado em teias",
+    "data_ocorrencia": "2026-06-21T23:48:00Z"
+  },
+  {
+    "id": 180,
+    "incidente": "Invasão a domicílio vazio",
+    "crimeComum": true,
+    "vilao_envolvido": null,
+    "severidade": "Baixa",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Ladeira",
+      "ponto_referencia": "Próximo ao comércio local de Ladeira"
+    },
+    "status": "Resolvido pela PM",
+    "data_ocorrencia": "2026-06-27T12:20:00Z"
+  },
+  {
+    "id": 181,
+    "incidente": "Assalto a banco utilizando explosivos alienígenas",
+    "crimeComum": false,
+    "vilao_envolvido": "Consertador",
+    "severidade": "Alta",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Santa Terezinha",
+      "ponto_referencia": "Próximo ao comércio local de Santa Terezinha"
+    },
+    "status": "Aranha a caminho",
+    "data_ocorrencia": "2026-06-24T23:48:00Z"
+  },
+  {
+    "id": 182,
+    "incidente": "Furto de cabos elétricos deixando a rua sem luz",
+    "crimeComum": true,
+    "vilao_envolvido": null,
+    "severidade": "Baixa",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Poço Rico",
+      "ponto_referencia": "Próximo ao comércio local de Poço Rico"
+    },
+    "status": "Suspeito detido",
+    "data_ocorrencia": "2026-06-25T23:46:00Z"
+  },
+  {
+    "id": 183,
+    "incidente": "Ataque a carro-forte com uso de força sobre-humana",
+    "crimeComum": false,
+    "vilao_envolvido": "Gibão",
+    "severidade": "Média",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Alto dos Passos",
+      "ponto_referencia": "Próximo ao comércio local de Alto dos Passos"
+    },
+    "status": "Polícia aguardando o Aranha",
+    "data_ocorrencia": "2026-06-21T14:05:00Z"
+  },
+  {
+    "id": 184,
+    "incidente": "Invasão de laboratório de pesquisas da UFJF",
+    "crimeComum": false,
+    "vilao_envolvido": "Chacal",
+    "severidade": "Média",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Alto dos Passos",
+      "ponto_referencia": "Próximo ao comércio local de Alto dos Passos"
+    },
+    "status": "Aranha a caminho",
+    "data_ocorrencia": "2026-06-26T13:22:00Z"
+  },
+  {
+    "id": 185,
+    "incidente": "Perseguição aérea causando danos a antenas",
+    "crimeComum": false,
+    "vilao_envolvido": "Chacal",
+    "severidade": "Média",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Jóquei Clube",
+      "ponto_referencia": "Próximo ao comércio local de Jóquei Clube"
+    },
+    "status": "Alerta máximo",
+    "data_ocorrencia": "2026-06-22T00:49:00Z"
+  },
+  {
+    "id": 186,
+    "incidente": "Controle mental de cidadãos para gerar tumulto",
+    "crimeComum": false,
+    "vilao_envolvido": "Abutre",
+    "severidade": "Média",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Manoel Honório",
+      "ponto_referencia": "Próximo ao comércio local de Manoel Honório"
+    },
+    "status": "Sob controle após intervenção",
+    "data_ocorrencia": "2026-06-21T00:57:00Z"
+  },
+  {
+    "id": 187,
+    "incidente": "Roubo de isótopos e produtos químicos experimentais",
+    "crimeComum": false,
+    "vilao_envolvido": "Canguru",
+    "severidade": "Média",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Jóquei Clube",
+      "ponto_referencia": "Próximo ao comércio local de Jóquei Clube"
+    },
+    "status": "Sob controle após intervenção",
+    "data_ocorrencia": "2026-06-24T12:45:00Z"
+  },
+  {
+    "id": 188,
+    "incidente": "Pichação em muro de escola estadual",
+    "crimeComum": true,
+    "vilao_envolvido": null,
+    "severidade": "Baixa",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Estrela Sul",
+      "ponto_referencia": "Próximo ao comércio local de Estrela Sul"
+    },
+    "status": "Polícia no local",
+    "data_ocorrencia": "2026-06-24T18:31:00Z"
+  },
+  {
+    "id": 189,
+    "incidente": "Invasão de laboratório de pesquisas da UFJF",
+    "crimeComum": false,
+    "vilao_envolvido": "Gata Negra",
+    "severidade": "Crítica",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Bairu",
+      "ponto_referencia": "Próximo ao comércio local de Bairu"
+    },
+    "status": "Polícia aguardando o Aranha",
+    "data_ocorrencia": "2026-06-20T12:54:00Z"
+  },
+  {
+    "id": 190,
+    "incidente": "Controle mental de cidadãos para gerar tumulto",
+    "crimeComum": false,
+    "vilao_envolvido": "Chacal",
+    "severidade": "Alta",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Poço Rico",
+      "ponto_referencia": "Próximo ao comércio local de Poço Rico"
+    },
+    "status": "Vilão imobilizado em teias",
+    "data_ocorrencia": "2026-06-24T01:37:00Z"
+  },
+  {
+    "id": 191,
+    "incidente": "Destruição em massa no asfalto com uso de tecnologia",
+    "crimeComum": false,
+    "vilao_envolvido": "Grande Roda",
+    "severidade": "Alta",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "São Judas Tadeu",
+      "ponto_referencia": "Próximo ao comércio local de São Judas Tadeu"
+    },
+    "status": "Área isolada pela polícia",
+    "data_ocorrencia": "2026-06-26T01:22:00Z"
+  },
+  {
+    "id": 192,
+    "incidente": "Ataque a carro-forte com uso de força sobre-humana",
+    "crimeComum": false,
+    "vilao_envolvido": "Homem-Hídrico",
+    "severidade": "Crítica",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Santa Luzia",
+      "ponto_referencia": "Próximo ao comércio local de Santa Luzia"
+    },
+    "status": "Aranha a caminho",
+    "data_ocorrencia": "2026-06-20T20:50:00Z"
+  },
+  {
+    "id": 193,
+    "incidente": "Invasão cibernética da infraestrutura local causando apagão",
+    "crimeComum": false,
+    "vilao_envolvido": "Kraven",
+    "severidade": "Média",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Nova Era",
+      "ponto_referencia": "Próximo ao comércio local de Nova Era"
+    },
+    "status": "Aranha em combate",
+    "data_ocorrencia": "2026-06-23T09:04:00Z"
+  },
+  {
+    "id": 194,
+    "incidente": "Roubo de celular de pedestre",
+    "crimeComum": true,
+    "vilao_envolvido": null,
+    "severidade": "Média",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Santa Rita de Cássia",
+      "ponto_referencia": "Próximo ao comércio local de Santa Rita de Cássia"
+    },
+    "status": "Suspeito detido",
+    "data_ocorrencia": "2026-06-27T15:15:00Z"
+  },
+  {
+    "id": 195,
+    "incidente": "Ataque a carro-forte com uso de força sobre-humana",
+    "crimeComum": false,
+    "vilao_envolvido": "Mosca Humana",
+    "severidade": "Alta",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Aeroporto",
+      "ponto_referencia": "Próximo ao comércio local de Aeroporto"
+    },
+    "status": "Vilão imobilizado em teias",
+    "data_ocorrencia": "2026-06-25T22:14:00Z"
+  },
+  {
+    "id": 196,
+    "incidente": "Extorsão com ameaça de destruição de prédios",
+    "crimeComum": false,
+    "vilao_envolvido": "Chacal",
+    "severidade": "Crítica",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Benfica",
+      "ponto_referencia": "Próximo ao comércio local de Benfica"
+    },
+    "status": "Vilão imobilizado em teias",
+    "data_ocorrencia": "2026-06-24T06:03:00Z"
+  },
+  {
+    "id": 197,
+    "incidente": "Assalto a banco utilizando explosivos alienígenas",
+    "crimeComum": false,
+    "vilao_envolvido": "Escorpião",
+    "severidade": "Média",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Nova Era",
+      "ponto_referencia": "Próximo ao comércio local de Nova Era"
+    },
+    "status": "Aranha a caminho",
+    "data_ocorrencia": "2026-06-24T03:42:00Z"
+  },
+  {
+    "id": 198,
+    "incidente": "Formação de barricadas elementais impedindo o trânsito",
+    "crimeComum": false,
+    "vilao_envolvido": "Morbius",
+    "severidade": "Alta",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Ladeira",
+      "ponto_referencia": "Próximo ao comércio local de Ladeira"
+    },
+    "status": "Aranha a caminho",
+    "data_ocorrencia": "2026-06-21T23:10:00Z"
+  },
+  {
+    "id": 199,
+    "incidente": "Tentativa de sabotagem na subestação da Cemig",
+    "crimeComum": false,
+    "vilao_envolvido": "Coelho Branco",
+    "severidade": "Crítica",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Granbery",
+      "ponto_referencia": "Próximo ao comércio local de Granbery"
+    },
+    "status": "Aranha em combate",
+    "data_ocorrencia": "2026-06-23T23:20:00Z"
+  },
+  {
+    "id": 200,
+    "incidente": "Caos generalizado utilizando ilusões holográficas",
+    "crimeComum": false,
+    "vilao_envolvido": "Lagarto",
+    "severidade": "Alta",
+    "localizacao": {
+      "cidade": "Juiz de Fora",
+      "bairro": "Linhares",
+      "ponto_referencia": "Próximo ao comércio local de Linhares"
+    },
+    "status": "Alerta máximo",
+    "data_ocorrencia": "2026-06-27T23:50:00Z"
   }
 ]
